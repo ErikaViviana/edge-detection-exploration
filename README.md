@@ -145,6 +145,14 @@ Used for evaluating modern edge detection approaches.
 
 ---
 
+## Additional Resources
+
+The pretrained HED model (`hed_pretrained_bsds.caffemodel`) is not included due to its size.
+
+To run the HED experiments, download the model from the original repository and place it inside the `models/` folder.
+
+---
+
 ## Key Takeaway
 
 This project represents a learning and exploration journey through edge detection techniques, from classical gradient-based operators to modern deep learning methods.
