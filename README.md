@@ -123,7 +123,7 @@ Used for evaluating modern edge detection approaches.
 │
 ├── models/
 │   ├── deploy.prototxt
-│   └── hed_pretrained_bsds.caffemodel
+│   └── README.md
 │
 ├── requirements.txt
 └── README.md
